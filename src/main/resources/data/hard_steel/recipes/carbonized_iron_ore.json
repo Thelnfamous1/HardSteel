@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"CIC",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"I": { "item": "minecraft:iron_ore" },
+		"C": { "item": "hard_steel:coal_nugget"}
+	},
+	
+	"result": { "item": "hard_steel:carbonized_iron_ore" }
+}

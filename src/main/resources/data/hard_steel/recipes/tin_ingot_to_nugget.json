@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"   ",
+		" B ",
+		"   "
+	],
+	
+	"key":
+	{
+		"B": { "item": "hard_steel:tin_ingot" }
+	},
+	
+	"result": { "item": "hard_steel:tin_nugget",
+	"count": 9 }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "hard_steel:block/smithing_table" },
+        "facing=west": { "model": "hard_steel:block/smithing_table", "y": 90 },
+        "facing=north": { "model": "hard_steel:block/smithing_table", "y": 180 },
+        "facing=east": { "model": "hard_steel:block/smithing_table", "y": 270 }
+    }
+}

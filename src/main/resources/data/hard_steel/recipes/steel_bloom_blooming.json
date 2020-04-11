@@ -1,0 +1,9 @@
+{
+  "type": "hard_steel:blooming",
+  "ingredient": {
+    "item": "hard_steel:carbonized_iron_ore"
+  },
+  "result": "hard_steel:bloomery_steel_ingot",
+  "experience": 0.15,
+  "cookingtime": 6400
+}

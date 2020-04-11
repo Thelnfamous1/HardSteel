@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"FS",
+		"  "
+	],
+	
+	"key":
+	{
+		"F": { "item": "minecraft:flint" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "hard_steel:flint_hatchet" }
+}

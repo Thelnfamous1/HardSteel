@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "hard_steel:bronze_nugget" }
+	},
+	
+	"result": { "item": "hard_steel:bronze_ingot" }
+}

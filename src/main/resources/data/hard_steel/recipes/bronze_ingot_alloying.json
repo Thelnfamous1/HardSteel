@@ -1,0 +1,12 @@
+{
+  "type": "hard_steel:alloying",
+  "cookingTime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "hard_steel:bronze_blend"
+  },
+  "result": {
+    "item": "hard_steel:bronze_ingot",
+    "count": 1
+  }
+}

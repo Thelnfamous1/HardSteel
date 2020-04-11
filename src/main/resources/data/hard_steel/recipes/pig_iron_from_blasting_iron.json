@@ -1,0 +1,12 @@
+{
+  "type": "hard_steel:hot_blasting",
+  "cookingTime": 100,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": {
+    "item": "hard_steel:pig_iron_ingot",
+    "count": 1
+  }
+}

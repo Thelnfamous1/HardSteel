@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DSD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:ingots/steel"
+    },
+    "S": {
+      "item": "hard_steel:wooden_shield"
+    }
+  },
+  "result": {
+    "item": "hard_steel:steel_shield"
+  }
+}

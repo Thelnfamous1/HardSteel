@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "hard_steel:block/blast_furnace_top",
+        "front": "hard_steel:block/blast_furnace_front",
+        "side": "hard_steel:block/blast_furnace_side"
+    }
+}

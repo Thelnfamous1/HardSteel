@@ -1,0 +1,7 @@
+{
+   "parent": "item/generated",
+   "textures": {
+     "layer0": "hard_steel:item/blank_cast",
+     "layer1": "hard_steel:item/pickaxe_mold"
+   }
+}

@@ -1,0 +1,32 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+
+credits="Thanks to kwpugh for the original Easy Steel source code." #optional
+
+authors="the_infamous_1" #optional
+
+[[mods]] #mandatory
+modId="hard_steel" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Hard Steel" #mandatory
+description='''
+Overhauls the vanilla gear making and mining system
+'''
+
+
+[[dependencies.easy_steel]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+
+# Here's another dependency
+[[dependencies.easy_steel]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "hard_steel:mithril_chain"
+    }
+  },
+  "result": {
+    "item": "hard_steel:mithril_chainlegs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "hard_steel:hot_blasting",
+  "cookingTime": 100,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "hard_steel:elder_remnants"
+  },
+  "result": {
+    "item": "hard_steel:enderite_scrap",
+    "count": 1
+  }
+}

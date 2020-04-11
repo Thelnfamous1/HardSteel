@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "hard_steel:netherite_chain"
+    }
+  },
+  "result": {
+    "item": "hard_steel:netherite_chainfeet"
+  }
+}

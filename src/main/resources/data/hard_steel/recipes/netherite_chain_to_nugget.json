@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"   ",
+		" B ",
+		"   "
+	],
+	
+	"key":
+	{
+		"B": { "item": "hard_steel:netherite_chain" }
+	},
+	
+	"result": { "item": "hard_steel:netherite_nugget",
+	"count": 7 }
+}

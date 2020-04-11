@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"ICI",
+		"SSS"
+	],
+	
+	"key":
+	{
+		"I": { "item": "minecraft:iron_ingot" },
+		"C": { "item": "hard_steel:crucible"},
+		"S": { "item": "minecraft:smooth_stone"}
+	},
+	
+	"result": { "item": "hard_steel:blast_furnace" }
+}

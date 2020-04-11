@@ -1,0 +1,6 @@
+{
+    "parent": "item/shield_blocking",
+    "textures": {
+        "particle": "hard_steel:block/copper_block"
+    }
+}

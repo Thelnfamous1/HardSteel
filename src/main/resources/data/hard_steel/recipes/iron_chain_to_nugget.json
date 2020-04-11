@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"   ",
+		" B ",
+		"   "
+	],
+	
+	"key":
+	{
+		"B": { "item": "hard_steel:iron_chain" }
+	},
+	
+	"result": { "item": "minecraft:iron_nugget",
+	"count": 7 }
+}

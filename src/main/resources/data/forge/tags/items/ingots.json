@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/steel",
+    "#forge:ingots/netherite",
+    "#forge:ingots/enderite",
+    "#forge:ingots/bronze",
+    "#forge:ingots/mithril",
+    "#forge:ingots/tin",
+    "#forge:ingots/copper"
+  ]
+}

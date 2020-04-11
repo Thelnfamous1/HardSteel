@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_hoe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_shovel"
+        }
+      ]
+    }
+  ]
+}

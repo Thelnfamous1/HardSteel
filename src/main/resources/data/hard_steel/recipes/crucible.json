@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"T T",
+		"T T",
+		"TTT"
+	],
+	
+	"key":
+	{
+		"T": { "item": "minecraft:terracotta" }
+	},
+	
+	"result": { "item": "hard_steel:crucible" }
+}

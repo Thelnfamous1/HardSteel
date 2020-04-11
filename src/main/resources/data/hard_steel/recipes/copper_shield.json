@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GSG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:ingots/copper"
+    },
+    "S": {
+      "item": "hard_steel:wooden_shield"
+    }
+  },
+  "result": {
+    "item": "hard_steel:copper_shield"
+  }
+}

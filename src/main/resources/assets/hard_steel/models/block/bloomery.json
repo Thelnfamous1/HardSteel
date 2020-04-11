@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable_with_bottom",
+    "textures": {
+        "bottom": "hard_steel:block/bloomery_bottom",
+        "top": "hard_steel:block/bloomery_top",
+        "front": "hard_steel:block/bloomery_front",
+        "side": "hard_steel:block/bloomery_side"
+    }
+}

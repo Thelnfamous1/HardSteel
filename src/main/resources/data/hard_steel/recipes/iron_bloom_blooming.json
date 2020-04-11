@@ -1,0 +1,9 @@
+{
+  "type": "hard_steel:blooming",
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 0.15,
+  "cookingtime": 1600
+}

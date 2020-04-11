@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ISI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "hard_steel:wooden_shield"
+    }
+  },
+  "result": {
+    "item": "hard_steel:iron_shield"
+  }
+}

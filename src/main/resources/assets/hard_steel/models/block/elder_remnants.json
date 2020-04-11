@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "hard_steel:block/elder_remnants_top",
+    "side": "hard_steel:block/elder_remnants_side"
+  }
+}

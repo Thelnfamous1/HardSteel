@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "item": "hard_steel:sharp_flint",
+        "count": 1
+    }
+}

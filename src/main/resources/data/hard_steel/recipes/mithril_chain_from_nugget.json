@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II ",
+		"III",
+		" II"
+	],
+	
+	"key":
+	{
+		"I": { "item": "hard_steel:mithril_nugget" }
+	},
+	
+	"result": { "item": "hard_steel:mithril_chain" }
+}

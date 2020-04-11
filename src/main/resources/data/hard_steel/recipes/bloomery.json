@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"TTT",
+		"T T",
+		"TTT"
+	],
+	
+	"key":
+	{
+		"T": { "item": "minecraft:terracotta" }
+	},
+	
+	"result": { "item": "hard_steel:bloomery" }
+}

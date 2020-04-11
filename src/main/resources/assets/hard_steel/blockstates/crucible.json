@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "level=0": { "model": "hard_steel:block/crucible" },
+        "level=1": { "model": "hard_steel:block/crucible_on" },
+        "level=2": { "model": "hard_steel:block/crucible_on" },
+        "level=3": { "model": "hard_steel:block/crucible_on" }
+    }
+}

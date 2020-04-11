@@ -1,0 +1,14 @@
+{
+    "parent": "item/shield",
+    "textures": {
+        "particle": "hard_steel:block/mithril_block"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "hard_steel:item/mithril_shield_blocking"
+        }
+    ]
+}

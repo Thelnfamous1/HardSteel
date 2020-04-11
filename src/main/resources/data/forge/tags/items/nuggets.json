@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:nuggets/steel",
+    "#forge:nuggets/coal",
+    "#forge:nuggets/netherite",
+    "#forge:nuggets/enderite",
+    "#forge:nuggets/bronze",
+    "#forge:nuggets/mithril",
+    "#forge:nuggets/tin",
+    "#forge:nuggets/copper"
+  ]
+}

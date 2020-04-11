@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hard_steel:enderite_scrap"
+        },
+        {
+            "item": "minecraft:ender_pearl"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        }
+    ],
+    "result": {
+        "item": "hard_steel:enderite_blend",
+        "count": 1
+    }
+}

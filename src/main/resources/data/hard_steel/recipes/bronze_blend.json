@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/tin"
+        }
+    ],
+    "result": {
+        "item": "hard_steel:bronze_blend",
+        "count": 1
+    }
+}

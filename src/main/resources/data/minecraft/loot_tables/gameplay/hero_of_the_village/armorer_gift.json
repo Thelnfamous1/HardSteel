@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hard_steel:bronze_boots"
+        }
+      ]
+    }
+  ]
+}
